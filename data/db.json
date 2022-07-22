@@ -24,6 +24,21 @@
       "name": "Toca",
       "price": "9,90",
       "id": 5
+    },
+    {
+      "name": "Cobertor",
+      "price": "99,90",
+      "id": 6
+    },
+    {
+      "name": "Short",
+      "price": "19,99",
+      "id": 7
+    },
+    {
+      "name": "Óculos",
+      "price": "125,00",
+      "id": 8
     }
   ]
 }
